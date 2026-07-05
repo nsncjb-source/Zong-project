@@ -70,6 +70,7 @@ Roadmap
  Multi-server analytics for premium customers
  Listing on top.gg / other Discord bot directories
 
+GET ZONG https://discord.gg/g67jY3724w
 
 Contact - [Pepo inc]
 
